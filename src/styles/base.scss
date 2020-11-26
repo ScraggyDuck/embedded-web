@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap";
+
+
+body {
+    font-family: Open Sans,sans-serif;
+    font-size: 14px;
+    color: #888;
+    font-weight: 400;
+    background: #f4f7fa;
+    position: relative;
+}
+
+a {
+    text-decoration:  none;
+
+    &:hover {
+        text-decoration:  none !important;
+    }
+}
